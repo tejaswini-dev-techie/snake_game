@@ -1,16 +1,41 @@
-# snake_game
+# Snake Game App for Android and Web
 
-A new Flutter project.
+## Welcome to our Snake Game App built using Flutter!
 
-## Getting Started
+## General info
+Welcome to the Snake Game App, a classic arcade-style game that can be played on both Android and the Web! This app is a simple and fun way to pass the time and challenge yourself to beat your highest score. Here's a quick guide to help you get started:
 
-This project is a starting point for a Flutter application.
+### Installation
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the project from our Github repository: https://github.com/tejaswini-dev-techie/snake_game
+2. Install Flutter 3.7.9 on your machine
+3. Open the project in your preferred IDE (we recommend using Android Studio or Visual Studio Code)
+4. Run the app on an emulator or physical device using following command for Android:
+    ```
+    flutter run
+    ```
+5. Run the app on web/chrome using following command:
+    ```
+    flutter run -d chrome
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Classic snake game mechanics
+2. Simple and intuitive controls
+3. Leaderboard to track high scores
+4. Works on both Android and Web platforms
+
+
+### Technologies
+Project is created with:
+* Flutter version: 3.7.9
+* Dart version 2.19.6
+* DevTools version 2.20.1
+* Android SDK version 33.0.0
+
+### Flutter Plugin
+* cloud_firestore: ^4.6.0
+
+
+
