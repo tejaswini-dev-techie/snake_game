@@ -44,7 +44,7 @@ class _SplashScreenViewState extends State<SplashScreenView> {
         ),
         child: const Center(
           child: Text(
-            "Snake Game",
+            "Snake Swipe",
             style: TextStyle(
                 fontSize: 24.0,
                 fontWeight: FontWeight.w700,
